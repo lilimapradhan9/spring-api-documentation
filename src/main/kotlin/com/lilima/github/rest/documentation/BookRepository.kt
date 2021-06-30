@@ -1,4 +1,4 @@
-package com.lilima.github
+package com.lilima.github.rest.documentation
 
 import org.springframework.stereotype.Repository
 import reactor.core.publisher.Mono

@@ -1,4 +1,4 @@
-package com.lilima.github
+package com.lilima.github.openapi
 
 import com.fasterxml.jackson.module.kotlin.convertValue
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper

@@ -1,4 +1,4 @@
-package com.lilima.github
+package com.lilima.github.openapi
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

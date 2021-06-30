@@ -1,4 +1,4 @@
-package com.lilima.github
+package com.lilima.github.openapi
 
 class BookDto(
     val name: String,

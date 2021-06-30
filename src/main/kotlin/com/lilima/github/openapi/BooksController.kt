@@ -1,4 +1,4 @@
-package com.lilima.github
+package com.lilima.github.openapi
 
 import org.springframework.web.bind.annotation.*
 import reactor.core.publisher.Mono

@@ -1,5 +1,7 @@
 package com.lilima.github
 
+import com.lilima.github.rest.documentation.Book
+import com.lilima.github.rest.documentation.BookDto
 import io.kotlintest.shouldBe
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.extension.ExtendWith

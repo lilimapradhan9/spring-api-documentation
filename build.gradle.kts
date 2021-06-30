@@ -24,8 +24,9 @@ dependencies {
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.12.0")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
-    testImplementation("org.springframework.restdocs:spring-restdocs-webtestclient:2.0.3.RELEASE")
+    implementation("org.springdoc:springdoc-openapi-webflux-ui:1.5.9")
 
+    testImplementation("org.springframework.restdocs:spring-restdocs-webtestclient:2.0.3.RELEASE")
     testImplementation("org.springframework.boot:spring-boot-starter-test:2.5.0")
     testImplementation("io.projectreactor:reactor-test:3.2.6.RELEASE")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.8.0-M1")
